@@ -1,0 +1,73 @@
+/* css personalizado*/
+
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.linhaCinza {
+    background: gray;
+}
+.linhaPersonalizada {
+    background: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-color-padding p{
+    padding: 15px;
+}
+.zero {
+    background-color: #543594;
+    color: #ffffff;
+}
+.zero .navbar-nav>li>a {
+    color: #ffffff;
+}
+.zero-font {
+    color: #543594;
+}
+.zero-addon {
+    min-width: 70px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.zero-form .input-group {
+    margin: 3px 0;
+}
+.zero-expand {
+    overflow: hidden;
+    height: 0px; width: 100%;
+    webkit-transition: 0.5s ease-in;
+    -moz-transition: 0.5s ease-in;
+    -o-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+}
+.zero-img-td {
+    width: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+
+

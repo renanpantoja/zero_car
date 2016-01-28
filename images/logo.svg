@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="190mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 19000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:1500}
+    .fil2 {fill:#7A75B5}
+    .fil0 {fill:#F58634}
+    .fil4 {fill:#FEFEFE}
+    .fil1 {fill:#5D4398}
+    .fil3 {fill:#373435;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_336428960">
+   <path class="fil0 str0" d="M10500 1322l2877 1718 2876 1718 0 9483 -2876 1718 -2877 1718 -2877 -1718 -2876 -1718 0 -9483 2876 -1718 2877 -1718zm0 4089l1438 859 1438 859 0 4742 -1438 859 -1438 859 -1438 -859 -1438 -859 0 -4742 1438 -859 1438 -859z"/>
+   <path class="fil1" d="M10500 1322l2877 1718 2876 1718 0 9483 -2876 1718 -2877 1718 -2877 -1718 -2876 -1718 0 -9483 2876 -1718 2877 -1718zm0 4089l1438 859 1438 859 0 4742 -1438 859 -1438 859 -1438 -859 -1438 -859 0 -4742 1438 -859 1438 -859z"/>
+   <polygon class="fil2" points="10461,17654 7624,15960 4747,14242 4747,4759 7624,3040 10461,1346 10461,5435 9062,6270 7624,7129 7624,11871 9062,12730 10461,13565 "/>
+   <g>
+    <path class="fil3" d="M1315 12027c-626,-729 -579,-676 -1193,-1391l849 -716 -367 0c0,-721 0,-1442 0,-2163 4604,2 9184,-1 13780,-1 362,243 724,486 1085,729l1357 -724c931,0 1863,0 2794,0 419,250 838,501 1257,751l0 3511c-6531,0 -13040,4 -19563,4z"/>
+    <polygon class="fil4" points="1388,8538 1388,9136 3113,9136 1228,10724 1673,11242 4721,11242 4713,10620 2704,10622 4695,9029 4393,8540 "/>
+    <polygon class="fil4" points="6212,8549 9687,8549 9687,9136 7448,9136 7448,9553 9403,9553 8736,10113 7448,10113 7448,10620 9687,10620 9741,10620 9741,11233 6212,11233 "/>
+    <path class="fil4" d="M11199 8540l2951 0 596 400 0 596 -611 322 611 283 0 1102 -1058 0 0 -1084 -1431 0 0 1084 -1058 0 0 -2702zm1058 596l1431 0 0 480 -1431 0 0 -480z"/>
+    <path class="fil4" d="M16254 11238l3840 0 0 -2284 -684 -409 -2400 0 -756 382 0 2311zm1227 -2089l1476 0 0 1458 -1476 0 0 -1458z"/>
+   </g>
+  </g>
+ </g>
+</svg>
